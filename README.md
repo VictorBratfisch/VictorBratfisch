@@ -1,5 +1,5 @@
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBratfisch&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBratfisch&layout=compact&langs_count=8"/>
 </div> 
 <div>
    <img align="center" alt="Victor-Dart" height="60" width="70" 
