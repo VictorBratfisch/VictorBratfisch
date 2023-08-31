@@ -1,5 +1,5 @@
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBratfisch&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBratfisch&layout=compact&langs_count=7" color="black"/>
 </div> 
 <div>
   <img align="center" alt="Alejandro-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
