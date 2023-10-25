@@ -1,7 +1,8 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBratfisch&layout=compact&langs_count=6"/>
 </div> 
-
+<br>
+<br>
 <div>
    <img align="center" alt="Victor-Dart" height="60" width="70" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
