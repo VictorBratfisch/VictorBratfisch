@@ -22,5 +22,3 @@
 <div>
   <a href="https://portfolio-three-rho-91.vercel.app/" target="_blank">Learn more about my programming career</a>
 </div>
-
-<img src="https://raw.githubusercontent.com/VictorBratfisch/VictorBratfisch/output/snake.svg" alt="Snake animation" />
