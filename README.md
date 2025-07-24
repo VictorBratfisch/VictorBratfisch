@@ -4,7 +4,7 @@
 <br>
 
 ## Technologies & Tools
-<div style="display: flex; gap: 10; margin-top: 10;">
+<div style="display: flex; gap: 50;">
   <img align="center" alt="Victor-JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Victor-Spring" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Victor-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
