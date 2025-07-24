@@ -14,6 +14,7 @@
   <img align="center" alt="Victor-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-NODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Victor-Docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/docker.svg">
 </div>
 
 <br>
